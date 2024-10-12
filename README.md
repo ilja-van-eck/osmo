@@ -1,1 +1,1 @@
-# osmo
+# Osmo Supply
